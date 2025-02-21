@@ -1,0 +1,10 @@
+name: shinydashboard
+title:
+username: rfswick
+account: rfswick
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14066805
+bundleId: 9837997
+url: https://rfswick.shinyapps.io/shinydashboard/
+version: 1
